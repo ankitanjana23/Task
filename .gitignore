@@ -1,0 +1,14 @@
+# Node
+node_modules/
+.env
+
+# Logs
+logs/
+*.log
+
+# Postman
+*.tmp
+
+# IDE configs
+.vscode/
+.idea/
